@@ -15,6 +15,19 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://talk-a-tive.herokuapp.com/
 
+## ScreenShorts
+
+**Login/Register Interface:**
+<img width="1080" alt="image" src="https://github.com/vivek9211/mern-chat-app/assets/82077595/675c6ec3-f888-41d6-8846-64f3bd2fda38">
+
+**Main Interface:**
+<img width="1080" alt="image" src="https://github.com/vivek9211/mern-chat-app/assets/82077595/58f47d31-8546-437d-9d2b-e1d29792cdd0">
+
+**Chat Interface:**
+<img width="1080" alt="image" src="https://github.com/vivek9211/mern-chat-app/assets/82077595/87689a57-dfaf-4d97-942e-42f5c6eb049a">
+
+
+
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
